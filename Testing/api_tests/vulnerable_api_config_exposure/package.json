@@ -1,0 +1,13 @@
+{
+  "name": "quickscan-vulnerable-api-config-exposure",
+  "version": "1.0.0",
+  "description": "Intentional vulnerable API for config/exposure pentest checks.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

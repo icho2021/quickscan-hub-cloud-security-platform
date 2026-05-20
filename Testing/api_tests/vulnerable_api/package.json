@@ -1,0 +1,14 @@
+{
+  "name": "quickscan-vulnerable-api",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable API for scanner testing (DO NOT use in production).",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
